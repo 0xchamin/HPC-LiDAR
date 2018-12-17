@@ -6,7 +6,7 @@
 
 ### This repository contains resources to facilitate research in LiDAR data processing in the context of High Performance Computing and Deep Learning. !!!
 
-Self-driving cars has always been a **Wow** thing to me. Eventually, I became obsessed with **Drones**. Recently, I was highly engage in the domain of **Deep Learning**. I like to define myself as a **machine learning practitioner**. I see machine learning as a *cool tool*. I always wanted to **make use of machine learning** to real world challenge. Finally, I made up my mind to work in **LiDAR** data processing. I am hoping to explore the domains of **Cloud Computing**, **High Performance Computing** and **Deep Learning** (particularly [**Geometric Deep Learning](http://geometricdeeplearning.com/))
+Self-driving cars has always been a **Wow** thing to me. Eventually, I became obsessed with **Drones**. Recently, I was highly engage in the domain of **Deep Learning**. I like to define myself as a **machine learning practitioner**. I see machine learning as a *cool tool*. I always wanted to **make use of machine learning** to real world challenge. Finally, I made up my mind to work in **LiDAR** data processing. I am hoping to explore the domains of **Cloud Computing**, **High Performance Computing** and **Deep Learning** (particularly [**Geometric Deep Learning**](http://geometricdeeplearning.com/))
 
 > I am making this repository to as a guide for **you and me** to explore this crucial research area. I am hoping to keep this repository uptodate with latest cutting edge research topics/papers etc. I highly appreciate your contribution towards this work. Feel free to make suggestions/contributions/pull-requests to this repository to make this work most uptodate. 
 
