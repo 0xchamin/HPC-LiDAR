@@ -1,5 +1,5 @@
 
-![](images/cover.png)
+![](images/cover.jpg)
 
 ![](https://img.shields.io/badge/Uploaded-1%25-green.svg)  
 
