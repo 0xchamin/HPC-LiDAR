@@ -21,11 +21,16 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 <!--
 To learn Deep Learning, Computer Vision or Natural Language Processing [check my 1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
 
+-->
+
 ### Prerequisites
 * Programming knowladge in Python
 * Object Oriented Concepts in Java/C++
 * Understanding concepts of C programming ([Pointers, Memory Management](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_))
 * Basic Knowladge in Deep Learning ([MLP, CNN and RNN])(https://www.fast.ai/)
+* Understanding in **Cloud Computing** concepts
+* Fundamental skill in programming in HPC (**MPI**, **OpenMPI**)
+[*please refer the **prerequisites** folder*]
 
 <!--
 ## Index
