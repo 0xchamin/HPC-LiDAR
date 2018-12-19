@@ -32,6 +32,8 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 * Fundamental skill in programming in HPC (**MPI**, **OpenMPI**)
 [*please refer the **prerequisites** folder*]
 
+### Papers to begin with
+* 
 <!--
 ## Index
  - **[Week 1 - Introduction](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)**
