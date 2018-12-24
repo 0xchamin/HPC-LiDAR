@@ -26,13 +26,15 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 ### Motivations (Why to strike a balance between AI and Cloud/HPC)
 * [How AI Startups Must Compete with Google | Dr Fei-Fei Li (Google Cloud) & Mike Abbott (KPCB)](https://www.youtube.com/watch?v=Mu3scWZvZKo)
 
-### Prerequisites
+### Prerequisites 
 * Programming knowladge in Python
 * Object Oriented Concepts in Java/C++
 * Understanding concepts of C programming ([Pointers, Memory Management](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_))
 * Basic Knowladge in Deep Learning ([MLP, CNN and RNN])(https://www.fast.ai/)
 * Understanding in **Cloud Computing** concepts
 * Fundamental skill in programming in HPC (**MPI**, **OpenMPI**)
+* Spatio-Temporal Databases
+* Map-Reduce Programming
 [*please refer the **prerequisites** folder*]
 
 ### Papers to begin with
