@@ -35,6 +35,8 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 * Fundamental skill in programming in HPC (**MPI**, **OpenMPI**)
 * Spatio-Temporal Databases
 * Map-Reduce Programming
+* Advanced Data Structures [MIT Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
+<br/>
 [*please refer the **prerequisites** folder*]
 
 ### Papers to begin with
