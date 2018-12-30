@@ -6,9 +6,14 @@
 - [MPI, OpenMP](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
 
 ### CUDA
+- [CUDA University Resources by NVIDIA](https://developer.nvidia.com/educators/existing-courses)
 - [CUDA C Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 - [NVIDIA & Udacity](https://classroom.udacity.com/courses/cs344)
 - [University of Oxford](http://people.maths.ox.ac.uk/gilesm/cuda/)
+- [Parallel Computer Architecture @ UC Davis](http://www.ece.ucdavis.edu/~jowens/171/)
+- [University of Sheffield](http://paulrichmond.shef.ac.uk/teaching/COM4521/)
+    - Good Resource to learn C
 
-### Cloud Computing
-- [UIUC | Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
+### Distributed Systems (Cloud Computing)
+- [UIUC | Cloud Computing (Coursera)](https://www.coursera.org/specializations/cloud-computing)
+- [UIC | Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)
