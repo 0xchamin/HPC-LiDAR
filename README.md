@@ -37,7 +37,7 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 * Map-Reduce Programming
 * Advanced Data Structures [MIT Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 <br/>
-please refer the [prerequisites](https://github.com/0xchamin/HPC-LiDAR/tree/master/prerequisites) folder
+please refer the [prerequisites] folder
 
 ### Papers to begin with
 * [Toward a new approach for massive LiDAR data processing](https://arxiv.org/ftp/arxiv/papers/1704/1704.03527.pdf)
