@@ -7,6 +7,7 @@
 - [Cornell | Parallel Computers](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html)
 - [GPU Architecture | GeorgiaTech](http://ece8823-sy.ece.gatech.edu/)
     - [Recommended Reading](https://pdfs.semanticscholar.org/91ea/c3d098a7ddced56265fb58e5bf2f7c3f5228.pdf)
+- [High Performance Computing | Georgia Tech](https://www.udacity.com/course/high-performance-computing--ud281)
 
 ### CUDA
 - [CUDA University Resources by NVIDIA](https://developer.nvidia.com/educators/existing-courses)
