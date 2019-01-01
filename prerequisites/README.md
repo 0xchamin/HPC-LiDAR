@@ -24,7 +24,9 @@
 - [UIUC | Cloud Computing (Coursera)](https://www.coursera.org/specializations/cloud-computing)
 - [UIUC | Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)
 The fasted way to learn is to go through university lectures slides first and then check the related video on Coursera.
+- U Washington 2018 (Graduate DS) [Sylllabus](https://courses.cs.washington.edu/courses/csep552/18wi/) [Videos](https://courses.cs.washington.edu/courses/csep552/18wi/video/)
 
 ### Programming 
 - [C (UNIX System Calls and Subroutines using C)](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [MPI, OpenMP](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
+- [Hadoop & Mapreduce | Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
