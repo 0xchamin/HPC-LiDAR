@@ -26,6 +26,11 @@
 The fasted way to learn is to go through university lectures slides first and then check the related video on Coursera.
 - U Washington 2018 (Graduate DS) [Sylllabus](https://courses.cs.washington.edu/courses/csep552/18wi/) [Videos](https://courses.cs.washington.edu/courses/csep552/18wi/video/)
 
+### Big Data Analytics 
+- [Havard University | Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)
+- [Columbia | Big Data Analytics](http://www.ee.columbia.edu/~cylin/course/bigdata/)
+- [Analyzing Big Data with Twitter | UC Berkeley](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F)
+
 ### Programming 
 - [C (UNIX System Calls and Subroutines using C)](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [MPI, OpenMP](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
