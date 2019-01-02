@@ -30,3 +30,4 @@ The fasted way to learn is to go through university lectures slides first and th
 - [C (UNIX System Calls and Subroutines using C)](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
 - [MPI, OpenMP](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
 - [Hadoop & Mapreduce | Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+- A good [C](https://www.cprogramming.com/tutorial/c-tutorial.html) tutorial 
