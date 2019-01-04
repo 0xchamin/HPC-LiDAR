@@ -25,6 +25,7 @@
 - [UIUC | Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)
 The fasted way to learn is to go through university lectures slides first and then check the related video on Coursera.
 - U Washington 2018 (Graduate DS) [Sylllabus](https://courses.cs.washington.edu/courses/csep552/18wi/) [Videos](https://courses.cs.washington.edu/courses/csep552/18wi/video/)
+- [Mining Massive Data Sets | Stanford] (http://www.mmds.org/#mooc)
 
 ### Big Data Analytics 
 - [Havard University | Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)
