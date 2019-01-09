@@ -17,7 +17,6 @@
 - [Parallel Computer Architecture @ UC Davis](http://www.ece.ucdavis.edu/~jowens/171/)
 - [University of Sheffield](http://paulrichmond.shef.ac.uk/teaching/COM4521/)
     - Good Resource to learn C
-#- [21 Article Series on Cuda](http://www.drdobbs.com/parallel/cuda-supercomputing-for-the-masses-part/207200659)
 - [Super Computing Blog](http://supercomputingblog.com/cuda-tutorials/)
 
 ### Distributed Systems (Cloud Computing)
