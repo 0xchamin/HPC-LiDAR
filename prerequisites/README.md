@@ -4,7 +4,6 @@
 - [UIUC | Hetorogeneous Parallel Programming](https://archive.org/details/academictorrents_8903d0871c652b96c7b29db738cea76902d65888/lectures/week1/Heterogeneous+Parallel+Programming+0.1+1.2+Introduction+to+Heterogeneous+Parallel+Computing.mp4) | [Videos & Slides](http://www.tsc.uc3m.es/~griosm/compartir/heterogeneous.html) | [UIUC NVIDIA Slides](http://www.cs.kent.edu/~jbaker/ParallelProg-Sp11/slides/)
     - [Programming Massively Parallel Processors, 2nd Edition](https://booksite.elsevier.com/9780124159921/ls.php)
 - CMU | Parallel Computer Architecture and Programming [2017 Videos](https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/d9502528c9724ad8b726f27a3a10c3a921) | [Slides](http://15418.courses.cs.cmu.edu/spring2017/lectures) | [2016 Spring](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f62c2297-de88-4e63-aff2-06641fa25e98%22&sortColumn=1&sortAscending=true)
-- [Cornell | Parallel Computers](http://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html)
 - [GPU Architecture | GeorgiaTech](http://ece8823-sy.ece.gatech.edu/)
     - [Recommended Reading](https://pdfs.semanticscholar.org/91ea/c3d098a7ddced56265fb58e5bf2f7c3f5228.pdf)
 - [High Performance Computing | Georgia Tech](https://www.udacity.com/course/high-performance-computing--ud281)
