@@ -10,7 +10,7 @@
     - [Recommended Reading](https://pdfs.semanticscholar.org/91ea/c3d098a7ddced56265fb58e5bf2f7c3f5228.pdf)
 - [High Performance Computing | Georgia Tech](https://www.udacity.com/course/high-performance-computing--ud281)
 - [High Performance Scientific Computing | WU](https://cs.nyu.edu/courses/fall10/G22.2945-001/lectures.html)
-- [UC Berekely | Applications of Parallel Computers](https://people.eecs.berkeley.edu/~demmel/cs267_Spr12/)
+- [UC Berekely | Applications of Parallel Computers](https://people.eecs.berkeley.edu/~demmel/cs267_Spr15/)
 
 ### CUDA
 - [CUDA University Resources by NVIDIA](https://developer.nvidia.com/educators/existing-courses)
