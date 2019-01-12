@@ -8,6 +8,7 @@
 - [GPU Architecture | GeorgiaTech](http://ece8823-sy.ece.gatech.edu/)
     - [Recommended Reading](https://pdfs.semanticscholar.org/91ea/c3d098a7ddced56265fb58e5bf2f7c3f5228.pdf)
 - [High Performance Computing | Georgia Tech](https://www.udacity.com/course/high-performance-computing--ud281)
+- [High Performance Scientific Computing | WU](https://cs.nyu.edu/courses/fall10/G22.2945-001/lectures.html)
 
 ### CUDA
 - [CUDA University Resources by NVIDIA](https://developer.nvidia.com/educators/existing-courses)
