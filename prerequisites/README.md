@@ -39,3 +39,4 @@ The fasted way to learn is to go through university lectures slides first and th
 - [MPI, OpenMP](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php)
 - [Hadoop & Mapreduce | Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - A good [C](https://www.cprogramming.com/tutorial/c-tutorial.html) tutorial 
+- MIT [Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/) and [Introduction to Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
