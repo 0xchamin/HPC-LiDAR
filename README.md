@@ -41,6 +41,7 @@ please refer the [prerequisites] folder
 
 ### Papers to begin with
 * [Toward a new approach for massive LiDAR data processing](https://arxiv.org/ftp/arxiv/papers/1704/1704.03527.pdf)
+* [MSc. Thesis | High performance computing for massive LiDAR data processing with optimized GPU parallel programming](https://search.proquest.com/pagepdf/1097907846/fulltextPDF/C7F91378C43542FCPQ/1?accountid=12665)
 <!--
 ## Index
  - **[Week 1 - Introduction](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)**
