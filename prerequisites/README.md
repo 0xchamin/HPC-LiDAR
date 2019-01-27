@@ -7,10 +7,13 @@
     - [Coursera Slides](https://archive.org/details/academictorrents_de34574326abc4666c7ede41d0205a4a2129bf85)
 - [UIUC | High Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012)
 - CMU | Parallel Computer Architecture and Programming [2017 Videos](https://mediatech-stream.andrew.cmu.edu/Mediasite/Catalog/Full/d9502528c9724ad8b726f27a3a10c3a921) | [Slides](http://15418.courses.cs.cmu.edu/spring2017/lectures) | [2016 Spring](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22f62c2297-de88-4e63-aff2-06641fa25e98%22&sortColumn=1&sortAscending=true)
-- [GPU Architecture | GeorgiaTech](http://ece8823-sy.ece.gatech.edu/)
-    - [Recommended Reading](https://pdfs.semanticscholar.org/91ea/c3d098a7ddced56265fb58e5bf2f7c3f5228.pdf)
 - [High Performance Computing | Georgia Tech](https://www.udacity.com/course/high-performance-computing--ud281)
 - [High Performance Scientific Computing | WU](https://cs.nyu.edu/courses/fall10/G22.2945-001/lectures.html)
+
+### Database Concepts
+- [Parallel and Distributed Data Management | Stanford University](http://web.stanford.edu/class/cs347/res.html)
+- [Distributed Database Systems | ASU](https://www.coursera.org/learn/distributed-database)
+- [Large Scale Data Systems](https://github.com/glouppe/info8002-large-scale-data-systems)
 
 ### CUDA
 - [CUDA University Resources by NVIDIA](https://developer.nvidia.com/educators/existing-courses)
@@ -23,6 +26,7 @@
 - [Super Computing Blog](http://supercomputingblog.com/cuda-tutorials/)
 
 ### Distributed Systems (Cloud Computing)
+- [Stanford | Cloud Computing Technology](http://web.stanford.edu/class/cs349d/)
 - [UIUC | Cloud Computing (Coursera)](https://www.coursera.org/specializations/cloud-computing)
 - [UIUC | Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)
 The fasted way to learn is to go through university lectures slides first and then check the related video on Coursera.
