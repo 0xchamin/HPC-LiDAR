@@ -27,6 +27,8 @@
 
 ### Distributed Systems (Cloud Computing)
 - [Stanford | Cloud Computing Technology](http://web.stanford.edu/class/cs349d/)
+- [Wright University | Cloud Computing](http://cecs.wright.edu/~pmateti/Courses/7380/Top/)
+- [Wright University | Distributed Systems](http://cecs.wright.edu/~pmateti/Courses/7370/Top/)
 - [UIUC | Cloud Computing (Coursera)](https://www.coursera.org/specializations/cloud-computing)
 - [UIUC | Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)
 The fasted way to learn is to go through university lectures slides first and then check the related video on Coursera.
