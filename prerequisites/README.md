@@ -29,6 +29,7 @@
 - [Stanford | Cloud Computing Technology](http://web.stanford.edu/class/cs349d/)
 - [Wright University | Cloud Computing](http://cecs.wright.edu/~pmateti/Courses/7380/Top/)
 - [Wright University | Distributed Systems](http://cecs.wright.edu/~pmateti/Courses/7370/Top/)
+- [CMU | Advanced Cloud Computing](http://www.cs.cmu.edu/~garth/15719/lectures/) | [Reading List](http://www.cs.cmu.edu/~garth/15719/readinglist.html)
 - [UIUC | Cloud Computing (Coursera)](https://www.coursera.org/specializations/cloud-computing)
 - [UIUC | Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)
 The fasted way to learn is to go through university lectures slides first and then check the related video on Coursera.
