@@ -30,12 +30,16 @@
 - [Wright University | Cloud Computing](http://cecs.wright.edu/~pmateti/Courses/7380/Top/)
 - [Wright University | Distributed Systems](http://cecs.wright.edu/~pmateti/Courses/7370/Top/)
 - [CMU | Advanced Cloud Computing](http://www.cs.cmu.edu/~garth/15719/lectures/) | [Reading List](http://www.cs.cmu.edu/~garth/15719/readinglist.html)
-- [CMU | Advanced Storage Systems](https://www.archive.ece.cmu.edu/~ganger/746.fall17/readings.html) | [2018](http://www.archive.ece.cmu.edu/~ece746/readinglist.html)
 - [UIUC | Cloud Computing (Coursera)](https://www.coursera.org/specializations/cloud-computing)
 - [UIUC | Distributed Systems](https://courses.engr.illinois.edu/cs425/fa2017/lectures.html)
 The fasted way to learn is to go through university lectures slides first and then check the related video on Coursera.
 - U Washington 2018 (Graduate DS) [Sylllabus](https://courses.cs.washington.edu/courses/csep552/18wi/) [Videos](https://courses.cs.washington.edu/courses/csep552/18wi/video/)
 - [Mining Massive Data Sets | Stanford] (http://www.mmds.org/#mooc)
+
+### Databases
+- [CMU | Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYplQRUlrgQKwIAV3es0U6t)
+- [MIT | Database Systems](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
+- [CMU | Advanced Storage Systems](https://www.archive.ece.cmu.edu/~ganger/746.fall17/readings.html) | [2018](http://www.archive.ece.cmu.edu/~ece746/readinglist.html)
 
 ### Big Data Analytics 
 - [Havard University | Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html)
