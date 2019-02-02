@@ -37,7 +37,7 @@ The fasted way to learn is to go through university lectures slides first and th
 - [Mining Massive Data Sets | Stanford] (http://www.mmds.org/#mooc)
 
 ### Databases
-- [CMU | Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYplQRUlrgQKwIAV3es0U6t)
+- [CMU | Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYplQRUlrgQKwIAV3es0U6t) | [2017 Overview](https://www.archive.ece.cmu.edu/~ganger/746.fall17/overview.html)
 - [MIT | Database Systems](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
 - [CMU | Advanced Storage Systems](https://www.archive.ece.cmu.edu/~ganger/746.fall17/readings.html) | [2018](http://www.archive.ece.cmu.edu/~ece746/readinglist.html)
 
