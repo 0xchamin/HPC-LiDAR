@@ -1,5 +1,12 @@
 ## PRE-REQUISITES 
 
+### GIS
+- [CMU | Geographic Information System](http://www.andrew.cmu.edu/course/95-708/)
+- [QGIS](https://docs.qgis.org/2.18/en/docs/gentle_gis_introduction/introducing_gis.html) **Read Manual**
+- Check [ArcGIS]() and [QGIS]() on YouTube
+- [PennState | GIS Cloud](https://www.e-education.psu.edu/geog865/cloud_introduction)
+- Readings [1](https://www.geospatialworld.net/article/cloud-for-gis-systems/),  [2](https://www.esri.com/library/ebooks/gis-in-the-cloud.pdf),  [3](https://www.esri.com/library/ebooks/gis-in-the-cloud.pdf),  [4](https://www.esri.com/library/whitepapers/pdfs/gis-in-the-cloud-chappell.pdf), [5](https://www.tandfonline.com/doi/abs/10.1080/19475683.2014.923046)
+
 ### High Performance Computing 
 - UC Berkeley | Applications of Parallel Computers [2015](https://people.eecs.berkeley.edu/~demmel/cs267_Spr15/) [2018](https://sites.google.com/lbl.gov/cs267-spr2018/)
 - [UIUC | Hetorogeneous Parallel Programming](https://archive.org/details/academictorrents_8903d0871c652b96c7b29db738cea76902d65888/lectures/week1/Heterogeneous+Parallel+Programming+0.1+1.2+Introduction+to+Heterogeneous+Parallel+Computing.mp4) | [Videos & Slides](http://www.tsc.uc3m.es/~griosm/compartir/heterogeneous.html) | [UIUC NVIDIA Slides](http://www.cs.kent.edu/~jbaker/ParallelProg-Sp11/slides/)
