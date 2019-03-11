@@ -2,19 +2,24 @@
 
 public class Vehicle{
 
-    public String name = "";
-    public String color = "";
-    public String model = "";
-    public String company = "";
+    private String name = "";
+    private String color = "";
+    private String model = "";
+    private String company = "";
+    private String engine = "800";
+    public static int count = 0;
 
     //constructor doesn't has a return type
-    public Vehicle(){}
+    public Vehicle(){
+        count++;
+    }
 
-    public Vehicle(String name, String color, String model, String company){
+    public Vehicle(String name, String color, String model, String company, String engine){
         this.name = name;
         this.color = color;
         this.model = model;
         this.company = company;
+        count++;
     }
 
     public void setName(String name){
@@ -32,6 +37,9 @@ public class Vehicle{
     public void setCompany(String company){
         this.company = company; 
     }
+    public void setEngine(String engine){
+        this.engine = engine; 
+    }
 
     public String getName(){
         return this.name; 
@@ -47,5 +55,20 @@ public class Vehicle{
 
     public String getCompany(){
         return this.company; 
+    }
+    private String getEngine(){
+        return this.engine; 
+    }
+    public int getSpeed(){
+        String a = getEngine();
+        if(a == "800"){
+            return 90;
+        }else{
+            return 120;
+        }
+    }
+    //static function can declare only inside static 
+    public static String getVehicle(){
+        return "Name and color of the vehicle "; 
     }
 }
