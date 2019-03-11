@@ -71,4 +71,9 @@ public class Vehicle{
     public static String getVehicle(){
         return "Name and color of the vehicle "; 
     }
+
+    //polymorphism
+    public String getInfo(){
+        return "This is getInfo Vehicle method";
+    }
 }

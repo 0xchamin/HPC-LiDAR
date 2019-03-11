@@ -28,13 +28,21 @@ public class Main{
         System.out.println(Vehicle.getVehicle());
         */
         
-        Car c1 = new Car("Honda", "Red", "2016", "Honda ", "900", true, false);
-        System.out.println(c1.getLedScreen());
-        System.out.println(c1.getName());
+       // Car c1 = new Car("Honda", "Red", "2016", "Honda ", "900", true, false);
+       // System.out.println(c1.getLedScreen());
+       // System.out.println(c1.getName());
 
         //method override 
         //c1.setName()
 
+        Vehicle v1 = new Vehicle("Honda", "Red", "2016", "Honda ", "900");
+         System.out.println(v1.getInfo());
 
+        //parent is containing the object of the child class
+        Vehicle v2 = new Car("Honda", "Red", "2016", "Honda ", "900", true, false);
+         System.out.println(v2.getInfo());
+
+        Vehicle v3 = new Bike("Honda", "Red", "2016", "Honda ", "900", true);
+         System.out.println(v3.getInfo());
     }
 }

@@ -27,4 +27,7 @@ public class Car extends Vehicle{
     public boolean getLedScreen(){
         return this.ledScreen;
     }
+     public String getInfo(){
+        return "This is getInfo Car method";
+    }
 }
