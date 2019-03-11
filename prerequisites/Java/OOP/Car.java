@@ -9,6 +9,10 @@ public class Car extends Vehicle{
         //count++;
     }
 
+    public String getName(){
+        return "Name of your vehicle  is "+ super.getName(); 
+    }
+
     public void setPowerSteering(boolean powerSteering){
         this.powerSteering = powerSteering;
     }

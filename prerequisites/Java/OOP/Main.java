@@ -2,6 +2,7 @@
 
 public class Main{
     public static void main(String[] args){
+        /**
         Vehicle v1 = new Vehicle();
         System.out.println(v1.count);
         Vehicle v2 = new Vehicle("Honda", "Red", "2016", "Honda ", "900");
@@ -25,5 +26,15 @@ public class Main{
 
         //call static functions
         System.out.println(Vehicle.getVehicle());
+        */
+        
+        Car c1 = new Car("Honda", "Red", "2016", "Honda ", "900", true, false);
+        System.out.println(c1.getLedScreen());
+        System.out.println(c1.getName());
+
+        //method override 
+        //c1.setName()
+
+
     }
 }
